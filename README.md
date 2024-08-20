@@ -1,4 +1,5 @@
 # Project Overview
+![60df485eb772ecbad54a](https://github.com/user-attachments/assets/842fc8dd-63bb-4cb8-9084-f56e97f42299)
 
 This project provides instructions for accessing a Figma file and setting up a development environment to work with its design details.
 
