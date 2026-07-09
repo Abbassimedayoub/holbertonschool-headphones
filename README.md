@@ -1,43 +1,30 @@
-# Project Overview
-![60df485eb772ecbad54a](https://github.com/user-attachments/assets/842fc8dd-63bb-4cb8-9084-f56e97f42299)
+# Headphones — Responsive Landing Page From Scratch
 
-This project provides instructions for accessing a Figma file and setting up a development environment to work with its design details.
+## Overview
 
-## Getting Started
+A fully responsive landing page implemented **from scratch, without any CSS framework or JavaScript library**, from a Figma design. The goal: reproduce the designer's mockup pixel-accurately while applying all the HTML, CSS, accessibility and responsive-design practices learned previously.
 
-To begin, follow these steps:
+## Design Constraints (from the mockup)
 
-1. **Create a Figma Account:**
-   - Visit [Figma](https://www.figma.com/) and sign up for an account if you haven't already.
+- Mobile switch at a screen width of **480px or less**
+- Link hover/active color: `#FF6565`; button hover/active: `opacity: 0.9`
+- Content constrained to a **1000px** max width, centered
 
-2. **Access the Design File:**
-   - [Link to the Figma File]([#](https://www.figma.com/design/FfnVADRC9xgI3yiZliTBYZ/Holberton-School---Headphone-company?node-id=0-2&t=TYKdWZIG9ZNykR9V-0)) *(Insert the actual link provided to you here)*
+## Structure
 
-3. **Duplicate to Your Drafts:**
-   - Once you have access to the Figma file, duplicate it to your drafts to start working with the design details.
+The page was built iteratively — each `N-index.html` / `N-styles.css` pair adds a new section of the page, with assets in `images/`.
 
+## Technologies
 
+HTML5, CSS3 (flexbox, media queries, custom properties) — zero dependencies.
 
-- **Handling Float Values:** When dealing with floating-point values in the design, feel free to round them for practical implementation.
+## Skills Demonstrated
 
-## Design Specifications
+Pixel-faithful design integration, responsive layouts without a framework, accessible markup, and incremental delivery.
 
-- **Responsive Design:**
-  - The web page should switch to the mobile version when the screen width is 480px or less.
+## Author
 
-- **Interactions:**
-  - Links Hover/Active: `#FF6565`
-  - Button Hover/Active: `opacity: 0.9`
+**Mohamed Ayoub Abbassi** — Holberton School Paris
 
-- **Content Max Width:**
-  - Set to `1000px` and centered on the page for optimal display.
-
-## Notes for Development
-
-- Ensure to implement responsive design principles as specified.
-- Use the provided colors and interaction details for hover and active states.
-- Center content using CSS for a cleaner presentation on different screen sizes.
-
-## Support
-
-For any questions or issues related to this project, feel free to contact me abbassi ayoub at abbassimohamedayoub@gmail.com.
+- GitHub: [@Abbassimedayoub](https://github.com/Abbassimedayoub)
+- LinkedIn: [mohamed-ayoub-abbassi](https://www.linkedin.com/in/mohamed-ayoub-abbassi)
